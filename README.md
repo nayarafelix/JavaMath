@@ -11,3 +11,6 @@ Contém as seguintes funcionalidades:
  - Cálculo de X1 e X2 de equação do segundo grau
  - Configuração de cordenadas X e Y para as figuras geométricas
  - Cálculo de área e perímetro das seguintes figuras geométricas: Cilindro, cone, paralelepipedo, triângulo.
+
+Projeto desenvolvido como avaliação final na faculdade UNICSUL.
+Curso: Análise e desenvolvimento de sistemas.
