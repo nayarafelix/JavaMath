@@ -12,5 +12,4 @@ Contém as seguintes funcionalidades:
  - Configuração de cordenadas X e Y para as figuras geométricas
  - Cálculo de área e perímetro das seguintes figuras geométricas: Cilindro, cone, paralelepipedo, triângulo.
 
-Projeto desenvolvido como avaliação final na faculdade UNICSUL.
-Curso: Análise e desenvolvimento de sistemas.
+Projeto desenvolvido como avaliação final do curso análise e desenvolvimento de sistemas na faculdade UNICSUL.
